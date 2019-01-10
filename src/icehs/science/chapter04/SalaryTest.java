@@ -12,11 +12,11 @@ public class SalaryTest {
 		int bonusTax = bonus * 55/1000;
 		
 		int yearSalaryMinusTax =  yearSalary - 12 * salaryTax;
-		int BonusMinusTax = bonus - bonusTax;
+		int bonusMinusTax = bonus - bonusTax;
 		
 		System.out.println("연봉 : " + yearSalary + ", 세후 연봉 : " + yearSalaryMinusTax);
-		System.out.println("보너스 : " + bonus + ", 세후 보너스 : " + BonusMinusTax);
-		System.out.println("지급액 : " + (yearSalaryMinusTax + BonusMinusTax));
+		System.out.println("보너스 : " + bonus + ", 세후 보너스 : " + bonusMinusTax);
+		System.out.println("지급액 : " + (yearSalaryMinusTax + bonusMinusTax));
 		
 	}
 

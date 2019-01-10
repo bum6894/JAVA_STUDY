@@ -9,6 +9,7 @@ public class OperatorTest {
 		System.out.println("3의 배수입니까? : " + (num % 3 == 0));
 		System.out.println("2의 배수이면서 7의 배수입니까? : " + (num % 2 == 0 && num % 7 == 0));
 		System.out.println("2의 배수이거나 7의 배수입니까? : " + (num % 2 == 0 || num % 7 == 0));
+		
 	}
 
 }

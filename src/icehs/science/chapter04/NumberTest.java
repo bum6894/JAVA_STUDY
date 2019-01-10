@@ -11,6 +11,7 @@ public class NumberTest {
 		System.out.println("10은 30보다 큽니까? : " + (num > 30));	
 		
 		
+		
 	}
 
 }

@@ -9,5 +9,6 @@ public class GradeTest {
 		System.out.println("B학점 : " + (score >= 80 && score < 90));
 		System.out.println("C학점 : " + (score >= 70 && score < 80));
 		System.out.println("D학점 : " + (score >= 60 && score < 70));
+		
 	}
 }

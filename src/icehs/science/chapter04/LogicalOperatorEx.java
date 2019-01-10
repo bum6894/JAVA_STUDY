@@ -19,6 +19,7 @@ public class LogicalOperatorEx {
 	
 		System.out.println(number1);
 		System.out.println(number2);
+		
 	}
 
 }

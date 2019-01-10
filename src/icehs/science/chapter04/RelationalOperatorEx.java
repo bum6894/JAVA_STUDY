@@ -18,6 +18,7 @@ public class RelationalOperatorEx {
 		System.out.println(num2 != num3);
 		
 
+		
 	}
 
 }

@@ -18,6 +18,7 @@ public class CalculatorTest {
 		System.out.println("³ª´°¼À °á°ú : " + divideResult);
 		System.out.println("³ª¸ÓÁö : " + remainderResult);
 		
+		
 	}
 
 }

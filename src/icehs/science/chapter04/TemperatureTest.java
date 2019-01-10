@@ -11,6 +11,7 @@ public class TemperatureTest {
 		System.out.println("È­¾¾ : " + fahrenheit);
 		System.out.println("¼·¾¾ : " + celcius);
 
+		
 	}
 
 }

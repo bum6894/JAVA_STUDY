@@ -13,6 +13,7 @@ public class DivisionEx {
 		System.out.println("³ª´°¼À °á°ú : : " + divisionResult);
 		System.out.println("³ª¸ÓÁö : " + remainderResult);
 		
+		
 
 	}
 

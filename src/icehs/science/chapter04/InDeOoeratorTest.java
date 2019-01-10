@@ -8,6 +8,7 @@ public class InDeOoeratorTest {
 		System.out.println(number--);
 		System.out.println(--number);
 		System.out.println(number--);
+	
 		
 	}
 

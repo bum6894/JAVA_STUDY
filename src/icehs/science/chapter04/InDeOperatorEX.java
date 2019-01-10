@@ -12,5 +12,6 @@ public class InDeOperatorEX {
 		
 		System.out.println(result);
 		
+		
 	}
 }

@@ -8,6 +8,7 @@ public class DataTypeHelpEx {
 		double three = 10;
 		int four = (int)three;
 
+		
 	}
 
 }

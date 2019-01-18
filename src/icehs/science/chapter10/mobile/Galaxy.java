@@ -1,6 +1,6 @@
 package icehs.science.chapter10.mobile;
 
-public class Galaxy extends Mobile{
+public class Galaxy extends Mobile implements Gooplay{
 	private String osVersion;
 	
 	

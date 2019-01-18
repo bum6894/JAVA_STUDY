@@ -1,6 +1,6 @@
-package icehs.science.chapter10;
+package icehs.secience.chapter10.cars;
 
-public class Car {
+public class Car implements Washer {
 	private int oilSize;
 	
 	public void go(int distance) {
@@ -16,4 +16,8 @@ public class Car {
 		this.oilSize = oilSize;
 	}
 	
+	@Override
+	public void wash() {
+		System.out.println("세차 합니다.");
+	}
 }

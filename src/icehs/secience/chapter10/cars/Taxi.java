@@ -1,4 +1,4 @@
-package icehs.science.chapter10;
+package icehs.secience.chapter10.cars;
 
 public class Taxi extends Car{
 	private int maxNum;
